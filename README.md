@@ -25,7 +25,7 @@ We would like to extend our gratitude to the following contributors who have mad
 
 We would like to extend our gratitude to the following participants for attending our event :
 
-- (Your Name) : (Your Experience/Message)
+- Aarjav Jain : Nice session with quiz
   
   
 
