@@ -25,12 +25,6 @@ We would like to extend our gratitude to the following contributors who have mad
 
 We would like to extend our gratitude to the following participants for attending our event :
 
-- Poojha V R : Got a good knowledge on basics
-  
-  
-
-
-
-
-
-
+- Shshank Singh : (really cleared many doubts regarding the git and GitHub)
+- Aarjav Jain : Nice session with quiz
+- Poojha V R : Got a good knowledge on basic
