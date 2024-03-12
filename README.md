@@ -27,11 +27,6 @@ We would like to extend our gratitude to the following participants for attendin
 
 - (Your Name) : (Your Experience/Message)
 - Praveen Kumar : very engaging and informative session. Learned a lot. Thank you for this wonderful event.
-  
-  
-
-
-
-
-
-
+- Shshank Singh : (really cleared many doubts regarding the git and GitHub)
+- Aarjav Jain : Nice session with quiz
+- Poojha V R : Got a good knowledge on basic
