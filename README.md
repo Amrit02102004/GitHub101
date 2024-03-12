@@ -25,6 +25,7 @@ We would like to extend our gratitude to the following contributors who have mad
 
 We would like to extend our gratitude to the following participants for attending our event :
 
+- Shshank Singh : (really cleared many doubts regarding the git and GitHub)
 - Aarjav Jain : Nice session with quiz
   
   
