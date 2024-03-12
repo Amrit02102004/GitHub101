@@ -1,3 +1,4 @@
+
 # GitHub101 Event
 
 Welcome to GitHub101! This event is designed to provide an introduction to the basics of Git and GitHub. Whether you're new to version control or looking to refresh your skills, this event aims to equip you with the knowledge and tools necessary to effectively collaborate on projects using Git and GitHub.
@@ -25,6 +26,7 @@ We would like to extend our gratitude to the following contributors who have mad
 
 We would like to extend our gratitude to the following participants for attending our event :
 
+- Praveen Kumar : very engaging and informative session. Learned a lot. Thank you for this wonderful event.
 - Shshank Singh : (really cleared many doubts regarding the git and GitHub)
 - Aarjav Jain : Nice session with quiz
 - Poojha V R : Got a good knowledge on basic
