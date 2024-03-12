@@ -27,11 +27,4 @@ We would like to extend our gratitude to the following participants for attendin
 
 - Shshank Singh : (really cleared many doubts regarding the git and GitHub)
 - Aarjav Jain : Nice session with quiz
-  
-  
-
-
-
-
-
-
+- Poojha V R : Got a good knowledge on basic
